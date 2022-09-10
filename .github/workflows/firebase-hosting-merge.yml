@@ -11,7 +11,10 @@ jobs:
         runs-on: ubuntu-latest
         steps:
             - uses: actions/checkout@v2
-            - run: npm install --force
+            - uses: actions/setup-node@v2
+              with:
+               node-version: "14"
+            - run: npm install
             - run: npm run build
             - uses: FirebaseExtended/action-hosting-deploy@v0
               with:
