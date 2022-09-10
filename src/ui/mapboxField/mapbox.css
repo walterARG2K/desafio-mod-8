@@ -1,0 +1,14 @@
+.react-mapbox-ac-menu{
+    color: #fff;
+    background-color: #1d1d1e;
+    font-size: 15px;
+    gap: 10px;
+    display: flex;
+    padding: 10px;
+    border-radius: 10px;
+    flex-direction: column;
+}
+
+.react-mapbox-ac-suggestion{
+    margin-bottom: 10px;
+}

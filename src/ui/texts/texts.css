@@ -1,0 +1,22 @@
+.title, .subtitle, .paragraph{
+    color: #fff;
+    font-size: 32px;
+    font-weight: 700;
+    margin: 0px;
+}
+
+.subtitle{
+    font-size: 23px;
+    margin: 0px;
+}
+
+.paragraph{
+    font-size: 18px;
+    font-weight: 500;
+    text-transform: Uppercase;
+    text-align: center;
+}
+
+.cursor{
+    cursor: pointer;
+}

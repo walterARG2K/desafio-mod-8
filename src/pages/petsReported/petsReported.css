@@ -1,0 +1,14 @@
+.root{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        gap: 70px;
+        padding: 5vh 20px;
+}
+
+.cards{
+        display: flex;
+        flex-direction: column;
+        gap: 30px;
+}

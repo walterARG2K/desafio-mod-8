@@ -1,0 +1,15 @@
+.root{
+    display: flex;
+    flex-direction: column;
+    color: #fff;
+}
+.input{
+        max-width: 330px;
+        height: 40px;
+        box-sizing: border-box;
+        outline: none;
+        padding: 10px;
+        font-size: 18px;
+        font-family: Poppins;
+        width: 70vw;
+}

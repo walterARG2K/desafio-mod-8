@@ -1,0 +1,15 @@
+.root{
+    position: fixed;
+    top: 0;
+    left: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 70px;
+    background-color: #1f1e26;
+    width: 100%;
+    padding: 120px 0;
+    height: 100vh;
+    animation: slide-top 0.7s ease-in reverse forwards;
+    text-align: center;
+    z-index: 2;
+}

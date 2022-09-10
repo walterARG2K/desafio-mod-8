@@ -1,0 +1,15 @@
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 60px;
+    color: #fff;
+}
+
+.container-button {
+    margin-top: 20px;
+}
+
+.span{
+    font-size: 15px;
+    color: red;
+}
