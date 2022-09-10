@@ -1,8 +1,8 @@
 const liveServer = require("live-server");
 const path = require("path");
-const dev = "development";
+const mode = "production";
 
-if (dev)
+if (mode)
     liveServer.start({
         root: "./",
         file: "./index.html",
@@ -10,7 +10,7 @@ if (dev)
 
 module.exports = {
     watch: true,
-    mode: dev,
+    mode: mode,
     entry: "./src/index.tsx",
     module: {
         rules: [

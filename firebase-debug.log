@@ -59,3 +59,159 @@ You're about to initialize a Firebase project in this directory:
 [info] 
 [info] +  Success! Logged into GitHub as walterARG2K 
 [info] 
+[debug] [2022-09-10T23:15:09.524Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:09.979Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:09.979Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:15.097Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:15.486Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:15.486Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:26.710Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:27.109Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:27.109Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:30.253Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:30.660Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:30.660Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:33.008Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:33.381Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:33.381Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:34.547Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:34.951Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:34.951Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:35.398Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:35.774Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:35.774Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:35.894Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:36.145Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:36.280Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:36.280Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:36.350Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:36.530Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:36.530Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:36.533Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:36.726Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:36.726Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:36.921Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:36.921Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:49.755Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:50.161Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:50.161Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:50.485Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:50.853Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:50.853Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:50.983Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:51.017Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:51.051Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:51.085Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:51.119Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:51.154Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:51.188Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:51.235Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:51.254Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:51.288Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:51.335Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:51.354Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:51.374Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:51.374Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:51.386Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:51.386Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:51.427Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:51.427Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:51.455Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:51.455Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:51.487Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:51.488Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:51.527Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:51.528Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:51.540Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:51.557Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:51.558Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:51.601Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:51.601Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:51.634Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:51.634Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:51.651Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:51.651Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:51.739Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:51.739Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:51.741Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:51.742Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:51.903Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:51.903Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:52.019Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:52.361Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:52.375Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:52.375Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:52.721Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:52.742Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:52.742Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:53.119Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:53.120Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:56.457Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:56.841Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:56.841Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:57.227Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:57.601Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:57.601Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:58.904Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:15:59.282Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:15:59.282Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:15:59.776Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:00.154Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:00.155Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:00.267Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:00.301Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:00.335Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:00.370Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:00.404Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:00.452Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:00.467Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:00.504Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:00.552Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:00.574Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:00.606Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:00.652Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:00.652Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:00.653Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:00.666Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:00.666Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:00.667Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:00.710Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:00.711Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:00.737Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:00.737Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:00.785Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:00.785Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:00.805Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:00.805Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:00.810Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:00.810Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:00.870Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:00.870Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:00.926Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:00.926Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:00.979Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:00.979Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:00.981Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:00.982Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:01.030Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:01.030Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:01.048Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:01.048Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:43.485Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:43.866Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:43.866Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:44.073Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:44.441Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:44.441Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:45.522Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:45.864Z] >>> [apiv2][query] GET https://api.github.com/repos//actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:45.905Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:45.905Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:46.229Z] <<< [apiv2][status] GET https://api.github.com/repos//actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:46.229Z] <<< [apiv2][body] GET https://api.github.com/repos//actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:46.970Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:47.366Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:47.366Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-09-10T23:16:47.797Z] >>> [apiv2][query] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key type=owner
+[debug] [2022-09-10T23:16:48.177Z] <<< [apiv2][status] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key 401
+[debug] [2022-09-10T23:16:48.178Z] <<< [apiv2][body] GET https://api.github.com/repos/walterARG2K/desafio-mod-8/actions/secrets/public-key {"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
