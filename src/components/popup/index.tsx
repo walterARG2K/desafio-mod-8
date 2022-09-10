@@ -26,7 +26,7 @@ export function Popup({ onClick, name, petId, userId }: popupType) {
         reportInfo(userId, petId, info);
         setSuccess(true);
         setTimeout(() => {
-            document.querySelector("." + css.img).click();
+            (document.querySelector("." + css.img as any).click();
         }, 2500);
     }
 
