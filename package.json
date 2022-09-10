@@ -4,7 +4,9 @@
   "main": "index.js",
   "license": "MIT",
   "scripts": {
-    "dev": "npx webpack"
+    "dev": "npx webpack",
+    "build": "npx webpack",
+    "start": "live-server"
   },
   "dependencies": {
     "dropzone": "^6.0.0-beta.2",
