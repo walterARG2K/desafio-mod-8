@@ -2,12 +2,6 @@ const liveServer = require("live-server");
 const path = require("path");
 const mode = "production";
 
-if (mode)
-    liveServer.start({
-        root: "./",
-        file: "./index.html",
-    });
-
 module.exports = {
     watch: true,
     mode: mode,
